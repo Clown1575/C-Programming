@@ -1,1 +1,1 @@
-This repository was created as the beginning of learning programming.
+This repository was created as the starting point for learning programming.
